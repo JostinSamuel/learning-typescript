@@ -1,1 +1,1 @@
-var variable:String = "NewName";
+var variable:String = "NewName";sdasd
